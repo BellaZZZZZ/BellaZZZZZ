@@ -1,4 +1,8 @@
 ### Hi there 👋
+### [MY BLOG](https://github.com/BellaZZZZZ/haizhetang.github.io)
+- JavaScript
+- React
+- Python
 
 <!--
 **BellaZZZZZ/BellaZZZZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
