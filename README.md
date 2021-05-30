@@ -1,4 +1,3 @@
-### Hi there 👋
 ### [MY BLOG](https://github.com/BellaZZZZZ/haizhetang.github.io):hugs:
 - JavaScript
 - React
