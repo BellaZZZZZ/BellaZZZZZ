@@ -21,4 +21,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=festina-lente-z&layout=compact&theme=radical)](https://github.com/festina-lente-z)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 8 mins    ████████████▒░░░░░░░░░░░░   48.89 % 
+Markdown     7 hrs 10 mins   ██████████▓░░░░░░░░░░░░░░   43.11 % 
+HTML         1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+```
 <!--END_SECTION:waka-->
