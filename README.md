@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 55 mins  █████████████████▒░░░░░░░   69.57 % 
-Markdown     3 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.86 % 
-HTML         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-JSX          1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JavaScript   10 hrs 18 mins  ████████████████▓░░░░░░░░   66.43 % 
+Markdown     3 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+HTML         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JSX          1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 ```
 <!--END_SECTION:waka-->
